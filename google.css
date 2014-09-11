@@ -1,0 +1,125 @@
+body {
+	font-family: Arial;
+}
+#logo {
+	margin: 13% 13% 2% 40% ;
+	height: 95px;
+	width: 285px;
+	display: block;
+}
+
+#textbox {
+	margin-left: 30%;
+	height: 25px;
+	width: 560px;
+	display: block;
+}
+
+.button {
+	font-weight: bold;
+	color:#484846;
+	font-size: 11px;
+	padding: 5px;
+	margin-top: 13px;
+}
+
+#button1 {
+	margin-left: 43%;
+}
+#button2 {
+	margin-left: 0.5%;
+}
+
+.header {
+	font-size: 13px;
+	margin-left: 79%;
+	margin-top: 1%;
+
+}
+
+.header a {
+	padding-top: 3%;
+	padding-right: 3%;
+	display: inline-block;
+}
+
+
+.header a:link, a:visited {
+	text-decoration: none;
+	color:#484846;
+}
+
+.header a:hover {
+	text-decoration: underline;
+}
+
+#grid {
+	margin-left: 90%;
+	margin-top: -18px;
+}
+
+#button {
+	font-size: 14px;
+	background-color: #0066FF;
+	height: 26px;
+	width: 70px;
+	color: white;
+	border-radius: 2px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 6px;
+	margin-left: 93%;
+	margin-top: -30px;
+}
+
+#button a:link {
+	color: white;
+	text-decoration: none;
+}
+
+#button a:visited {
+	color: white;
+	text-decoration: none;
+}
+
+
+.footer {
+	background-color: #EEEEEE;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 100%;
+	margin-top: 14%;
+	display: block;
+}
+
+.footer #right {
+	margin-left: 85%;
+	margin-top: -18px;
+}
+
+.footer #right #r2 {
+	margin-left: 10%;
+	margin-top: -18px
+}
+
+.footer #l1 {
+	margin-left: 25px;
+}
+
+.footer #l2 {
+	margin-left: 24px;
+}
+
+.footer #l3 {
+	margin-left: 24px;
+}
+
+.footer a:link, a:visited {
+	text-decoration: none;
+	color: #484846;
+	font-size: 14px;
+}
+
+.footer a:hover {
+	text-decoration: underline;
+}
